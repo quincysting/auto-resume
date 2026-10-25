@@ -1,0 +1,5 @@
+{
+  "name": "auto-resume",
+  "version": "0.1.0",
+  "description": "When a turn stops on the usage limit, picks the work back up as soon as the limit resets."
+}

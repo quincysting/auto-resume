@@ -1,0 +1,5 @@
+{
+  "name": "auto-resume",
+  "owner": { "name": "quincysting" },
+  "plugins": [{ "name": "auto-resume", "source": "./" }]
+}
